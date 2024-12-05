@@ -1,0 +1,11 @@
+*.pyc
+*.log
+__pycache__/
+env/
+*.tar.gz
+*.sqlite
+*.swp
+*.DS_Store
+sites/*/logs/*
+sites/*/public/backups/*
+sites/*/private/backups/*
